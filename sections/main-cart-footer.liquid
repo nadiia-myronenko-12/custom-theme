@@ -36,25 +36,6 @@
           >{{ cart.note }}</textarea>
         </cart-note>
       {%- endif -%}
-      <div class="cart__custom-fields field">
-  <label class="field__label" for="cart-unit">Unit / Apartment #</label>
-  <input
-    type="text"
-    id="cart-unit"
-    class="field__input"
-    form="cart"
-    name="attributes[Unit / Apartment]"
-    value="{{ cart.attributes['Unit / Apartment'] }}"
-    placeholder="e.g. 10B">
-
-  <label class="field__label" for="cart-instructions">Delivery instructions</label>
-  <textarea
-    id="cart-instructions"
-    class="text-area field__input"
-    form="cart"
-    name="attributes[Delivery instructions]"
-    placeholder="Buzzer code, gate, etc.">{{ cart.attributes['Delivery instructions'] }}</textarea>
-</div>
 
       <div class="cart__blocks">
         {% for block in section.blocks %}

@@ -137,17 +137,10 @@
     },
     "content_for_index": [],
     "blocks": {
-      "9776720720251544092": {
-        "type": "shopify://apps/helium-customer-fields/blocks/app-embed/bab58598-3e6a-4377-aaaa-97189b15f131",
+      "13969055170449783870": {
+        "type": "shopify://apps/bss-b2b-solution/blocks/config-header/451233f2-9631-4c49-8b6f-057e4ebcde7f",
         "disabled": false,
-        "settings": {
-          "registration_form_id": "",
-          "edit_account_form_id": "",
-          "edit_account_link_text": "Edit account",
-          "edit_account_heading": "Edit account",
-          "edit_account_back_link_text": "Back to account",
-          "enable_js_api": false
-        }
+        "settings": {}
       }
     },
     "color_schemes": {

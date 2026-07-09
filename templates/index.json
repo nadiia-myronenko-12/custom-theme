@@ -188,21 +188,18 @@
         "padding_bottom": 36
       }
     },
-    "178358732624a58a1f": {
+    "1783589139c15164f3": {
       "type": "apps",
       "blocks": {
-        "helium_customer_fields_app_block_AB3eyt": {
-          "type": "shopify://apps/helium-customer-fields/blocks/app-block/bab58598-3e6a-4377-aaaa-97189b15f131",
+        "bss_b2b_solution_form_3pza6w": {
+          "type": "shopify://apps/bss-b2b-solution/blocks/form/451233f2-9631-4c49-8b6f-057e4ebcde7f",
           "settings": {
-            "form_id": "VKt7ad",
-            "width": 600,
-            "vertical_spacing": 60,
-            "horizontal_spacing": 0
+            "form_id": "34820"
           }
         }
       },
       "block_order": [
-        "helium_customer_fields_app_block_AB3eyt"
+        "bss_b2b_solution_form_3pza6w"
       ],
       "settings": {
         "include_margins": true
@@ -216,6 +213,6 @@
     "collage",
     "video",
     "multicolumn",
-    "178358732624a58a1f"
+    "1783589139c15164f3"
   ]
 }

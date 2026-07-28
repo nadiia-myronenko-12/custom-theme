@@ -204,6 +204,47 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "collection_list_QgeEJP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xdqmmB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bag"
+          }
+        },
+        "featured_collection_aT3WLW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jacket"
+          }
+        },
+        "featured_collection_KrCPDm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shirt"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xdqmmB",
+        "featured_collection_aT3WLW",
+        "featured_collection_KrCPDm"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -213,6 +254,7 @@
     "collage",
     "video",
     "multicolumn",
-    "1783589139c15164f3"
+    "1783589139c15164f3",
+    "collection_list_QgeEJP"
   ]
 }
